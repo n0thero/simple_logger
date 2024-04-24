@@ -1,6 +1,8 @@
 {
     "name": "nothero/simple_logger",
+    "description": "Tool to log mixed warnings, for personal use",
     "type": "library",
+    "license": "MIT",
     "autoload": {
         "psr-4": {
             "Nothero\\SimpleLogger\\": "src/"
@@ -14,5 +16,7 @@
             "name": "Sergey Kiselev"
         }
     ],
-    "require": {}
+    "require": {
+        "php": "^7.0"
+    }
 }
