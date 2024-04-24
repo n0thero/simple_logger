@@ -3,6 +3,7 @@
     "description": "Tool to log mixed warnings, for personal use",
     "type": "library",
     "license": "MIT",
+    "minimum-stability": "alpha",
     "autoload": {
         "psr-4": {
             "Nothero\\SimpleLogger\\": "src/"
