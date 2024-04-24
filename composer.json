@@ -1,0 +1,18 @@
+{
+    "name": "nothero/simple_logger",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Nothero\\SimpleLogger\\": "src/"
+        },
+        "files": [
+            "src/helpers.php"
+        ]
+    },
+    "authors": [
+        {
+            "name": "Sergey Kiselev"
+        }
+    ],
+    "require": {}
+}
